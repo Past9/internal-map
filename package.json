@@ -1,0 +1,20 @@
+{
+    "name": "internal-map",
+    "version": "0.1.0",
+    "description": "A simple helper for simulating private class members in ES6",
+    "author": "Ross Tollefson <psat9sys@gmail.com>",
+    "license": "MIT",
+    "main": "internalMap.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Past9/internal-map"
+    },
+    "bugs": {
+        "url": "https://github.com/Past9/internal-map/issues"
+    },
+    "keywords": [
+        "es6",
+        "class",
+        "private"
+    ]
+}
