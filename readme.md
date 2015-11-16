@@ -9,7 +9,7 @@ ES6 currently has no built-in way to create private class members. One way to si
 // ES6 class module
 "use strict";
 
-let internal = require("internal")();
+let internal = require("internal-map")();
 
 class MyClass {
 
