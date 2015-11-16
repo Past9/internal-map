@@ -1,6 +1,5 @@
 #internal-map
 
----
 
 ES6 currently has no built-in way to create private class members. One way to simulate them is to use a ```WeakMap```. ```internal-map``` does this for you. Use it like so:
 
